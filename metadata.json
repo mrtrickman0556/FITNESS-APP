@@ -1,0 +1,6 @@
+{
+  "name": "Fitness Sensei",
+  "description": "The ultimate mobile fitness sensei and workout logger with custom progress tracking, recovery plans, and nutrition logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
